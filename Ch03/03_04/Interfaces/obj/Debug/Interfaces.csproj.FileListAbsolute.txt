@@ -1,0 +1,17 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\Interfaces\obj\Debug\Interfaces.pdb

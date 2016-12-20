@@ -1,0 +1,22 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Start\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_02\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch02\02_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\DesignPatterns\Decorator\obj\Debug\Decorator.pdb

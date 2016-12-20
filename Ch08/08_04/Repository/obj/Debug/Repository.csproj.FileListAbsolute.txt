@@ -1,0 +1,220 @@
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\csc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\vbc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Repository.dll.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Antlr3.Runtime.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Newtonsoft.Json.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Helpers.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Mvc.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Optimization.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\WebGrease.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Helpers.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Mvc.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Optimization.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Antlr3.Runtime.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\Newtonsoft.Json.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\obj\Debug\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\obj\Debug\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\EntityFramework.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\EntityFramework.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_02\Start\DesignPatterns\Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\csc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\vbc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Repository.dll.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Antlr3.Runtime.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\EntityFramework.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Newtonsoft.Json.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Helpers.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Mvc.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Optimization.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\WebGrease.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\EntityFramework.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Helpers.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Mvc.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Optimization.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Antlr3.Runtime.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\bin\Newtonsoft.Json.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\obj\Debug\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Start\DesignPatterns\Repository\obj\Debug\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\csc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\vbc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Repository.dll.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\EntityFramework.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\WebGrease.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\EntityFramework.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\obj\Debug\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_03\Finish\DesignPatterns\Repository\obj\Debug\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\csc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\vbc.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.dll.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\WebGrease.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.xml
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.dll
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\csc.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\vbc.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.dll.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Repository.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Razor.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\WebGrease.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\EntityFramework.SqlServer.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Helpers.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Mvc.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Optimization.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.Razor.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Antlr3.Runtime.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\bin\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_04\Finish\DesignPatterns\Repository\obj\Debug\Repository.pdb

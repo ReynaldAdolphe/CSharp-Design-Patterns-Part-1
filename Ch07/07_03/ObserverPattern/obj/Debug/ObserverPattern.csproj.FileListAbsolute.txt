@@ -1,0 +1,37 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Start\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_02\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch04\04_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_02\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch07\07_03\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache

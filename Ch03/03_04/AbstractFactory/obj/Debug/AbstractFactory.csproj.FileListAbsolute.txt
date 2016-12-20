@@ -1,0 +1,57 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\Providers.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\Providers.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\Providers.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\CitiCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\bin\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

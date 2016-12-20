@@ -1,0 +1,24 @@
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Start\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\bin\Debug\Singleton.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\bin\Debug\Singleton.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\obj\Debug\Singleton.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Finish\Singleton\obj\Debug\Singleton.pdb
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\reynald\Google Drive\_DesignPatterns_Exercises\Ch05\05_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

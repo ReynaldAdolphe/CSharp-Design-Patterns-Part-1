@@ -1,0 +1,22 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.dll
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Downloads\_DesignPatterns_Exercises\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Start\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\NationalCreditUnion.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\bin\Debug\Interfaces.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\Finish\DesignPatterns\NationalCreditUnion\obj\Debug\NationalCreditUnion.pdb

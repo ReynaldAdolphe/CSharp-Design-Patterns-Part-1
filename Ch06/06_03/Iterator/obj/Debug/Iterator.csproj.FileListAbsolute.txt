@@ -1,0 +1,22 @@
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Start\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Finish\DesignPatterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\obj\Debug\Iterator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\obj\Debug\Iterator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\bin\Debug\Iterator.exe
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\bin\Debug\Iterator.pdb
+C:\Users\reynald\Dropbox\_DesignPatterns_Exercises\Bugs\Exercise Files\Ch06\06_03\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch06\06_03\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch06\06_03\Iterator\obj\Debug\Iterator.exe
+C:\Users\reynald\Desktop\Fixed Exercise Files\Ch06\06_03\Iterator\obj\Debug\Iterator.pdb

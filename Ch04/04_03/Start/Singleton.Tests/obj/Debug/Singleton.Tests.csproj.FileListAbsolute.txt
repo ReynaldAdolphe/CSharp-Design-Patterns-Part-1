@@ -1,0 +1,8 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\bin\Debug\Singleton.Tests.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\bin\Debug\Singleton.Tests.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\obj\Debug\Singleton.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\obj\Debug\Singleton.Tests.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\obj\Debug\Singleton.Tests.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\bin\Debug\Singleton.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Finish\DesignPatterns\Singleton.Tests\bin\Debug\Singleton.pdb
